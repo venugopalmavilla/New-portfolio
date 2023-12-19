@@ -74,7 +74,7 @@
   }
 }
 .img-fluid {
-  max-width: none;
+  max-width: 0%;
   height: auto;
 }
 #hero h1 {
