@@ -73,7 +73,10 @@
     width: 100%;
   }
 }
-
+img-fluid {
+  max-width: none;
+  height: auto;
+}
 #hero h1 {
   margin: 0;
   font-size: 50px;
