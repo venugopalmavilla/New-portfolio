@@ -120,7 +120,7 @@
   padding: 80px 0 20px 0;
 }
 .about .image {
-  background: url("/images/about.jpeg") center center no-repeat;
+  background: url("./images/about.jpeg") center center no-repeat;
   background-size: cover;
   min-height: 200px;
 }
