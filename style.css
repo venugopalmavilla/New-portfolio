@@ -73,7 +73,7 @@
     width: 100%;
   }
 }
-.img-fluid {
+#hero .img-fluid {
   max-width: 0%;
   height: auto;
 }
